@@ -48,3 +48,5 @@ Codigo de java
 Esto va en ***negrita***
 
 Esto va en ___cursiva___
+
+El proyecto tiene un listado de grupos y de villanos
